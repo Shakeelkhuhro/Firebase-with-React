@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+}
+
+.auth{
+  display: flex;
+  flex-direction: column;
+}
