@@ -9,7 +9,7 @@ This is a simple React application that demonstrates Firebase Authentication sig
 ## Getting Started
 
 1. Clone the repository:
-    git clone repository
+    git clone https://github.com/Shakeelkhuhro/Firebase-with-React
 2. Install dependencies:
     npm install
 3. Set up Firebase:
