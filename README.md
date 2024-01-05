@@ -86,6 +86,8 @@ Please refer to the Firebase documentation for each specific Firebase service yo
 
 You can customize the application by modifying the CSS styles in the `signup.css` file. Feel free to update the UI and add additional features as per your requirements.
 
+#
+
 ## Firebase Documentation
 
 For more information on Firebase and its features, refer to the Firebase documentation:
